@@ -1,0 +1,13 @@
+torch
+torchaudio
+librosa
+numpy
+pandas
+scipy
+matplotlib
+sounddevice
+pyaudio
+pytest
+pytest-cov
+black
+flake8
