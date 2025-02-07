@@ -31,16 +31,20 @@ This project contains a collection of scripts and data for training, testing, an
 
 * **Training:**
   Run the training script to train the snore detection model:
-
-  **python** **snore_detection_train.py**
+  ```python
+  python snore_detection_train.py
+  ```
 * **Real-time Detection:**
   To start the real-time snore detection:
+  ```python
+  python snore_detection_realtime.py
+  ```
 
-  **python** **snore_detection_realtime.py**
 * **Testing:**
   To run the tests for the project:
-
-  **python** **-m** **unittest** **discover** **tests**
+  ```python
+  python snore_test.py
+  ```
 
 ## License
 
